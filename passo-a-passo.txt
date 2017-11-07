@@ -6,4 +6,6 @@ npm  init
 
 npm install --save-dev grunt
 
+npm install --save-dev grunt-responsive-images
+
 grunt
