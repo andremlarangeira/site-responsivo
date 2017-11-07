@@ -1,0 +1,9 @@
+instalar o NODEjs
+
+npm install -g grunt-cli
+
+npm  init
+
+npm install --save-dev grunt
+
+grunt
